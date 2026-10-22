@@ -1,0 +1,7 @@
+buildVariable: false
+removeOutlineOverlaps: false
+productionNames: false
+decomposeTransformedComponents: false
+sources:
+  - PT_Sans-Narrow-Web-Bold.glyphs
+  - PT_Sans-Narrow-Web-Regular.glyphs
